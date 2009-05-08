@@ -19,8 +19,8 @@ The fractions 4 and 5 (f45) were processed by the Ciphergen
 IMAC protocol with EAM of CHCA. 
 
 Information on the spectrum
-ID and the pheotype information is stored in the \code{exprSet}
-{\tt f45cbmk}, the proto-biomakers pre-processed by Ciphergen's
+ID and the pheotype information is stored in the \code{exprSet} object
+\dQuote{f45cbmk}, the proto-biomakers pre-processed by Ciphergen's
 software.
 
 As an alternative, package \code{PROcess} may be used for 
