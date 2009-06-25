@@ -23,12 +23,12 @@
 \format{
  The different covariates are:
   \describe{
- \item{GROUP:}{a character vector with four possible 
+ \item{GROUP}{a character vector with four possible 
 	values, "A", "B", "C" and "D".  "A" represents HER2 
 	positive patients, "B" normal healthy patients, "C" 
 	ER/PR positive patients and "D" samples from a single 
 	healthy woman.}
-  \item{SPECTRUM:}{a character vector, the spectrum id of 
+  \item{SPECTRUM}{a character vector, the spectrum id of 
         each sample.}
 }
 }
@@ -36,8 +36,8 @@
 Alex Miron's Lab at the Dana-Farber Cancer Institute.
 }
 \references{
-Shi, Q. et al. Biomarker Discovery in Plasma Using Proteomics Ana
-lysis for Early Detection of Breast Cancer. 2004, manuscript.
+Shi, Q. et al. Biomarker Discovery in Plasma Using Proteomics Analysis for
+Early Detection of Breast Cancer. 2004, manuscript. 
 }
 \examples{
 data(f45cbmk)
