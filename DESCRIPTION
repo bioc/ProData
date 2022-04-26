@@ -1,6 +1,6 @@
 Package: ProData
 Title: SELDI-TOF data of Breast cancer samples
-Version: 1.33.0
+Version: 1.34.0
 Author: Xiaochun Li
 Description: A data package of SELDI-TOF protein mass spectrometry data of
   167 breast cancer and normal samples. 
